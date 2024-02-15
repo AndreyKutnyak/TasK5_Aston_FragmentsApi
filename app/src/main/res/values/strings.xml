@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TasK5_Aston_FragmentsApi</string>
+    <string name="LastName">Фамилия</string>
+    <string name="Name">Имя</string>
+    <string name="Phone">Телефон</string>
+    <string name="Save">Сохранить</string>
+</resources>
